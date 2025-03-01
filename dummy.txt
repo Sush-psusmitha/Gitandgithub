@@ -1,1 +1,2 @@
 this is dummy test file
+I'm modifyin in the remote repository to get the changes in the local workspace I'll use git pull 
